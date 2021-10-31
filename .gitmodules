@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ThiagoCosta360/angular-base.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:ThiagoCosta360/flask-base.git
